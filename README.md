@@ -1,1 +1,1 @@
-# real-estate-starter
+# interface de imobiliária criada com react e tailwind 
